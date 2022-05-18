@@ -3,6 +3,7 @@ import javax.swing.JFrame;
 
 public class MyDemo {
     public static void main(String[] args){
+        //JFrame frame=new JFrame("Swing Example 222");
 
         JFrame frame=new MyFrame("Example");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
