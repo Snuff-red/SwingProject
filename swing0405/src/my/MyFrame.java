@@ -18,11 +18,8 @@ public class MyFrame extends JFrame{
 
         root.add(timeLabel);
 
-        button.addActionListener(new ActionListener(){
-            @Override
-            public void  actionPerformed(ActionEvent e){
+        button.addActionListener((e)->{
             showTime();
-            }
         });
 	}
     public void showTime(){

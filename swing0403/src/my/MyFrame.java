@@ -18,17 +18,15 @@ public class MyFrame extends JFrame{
 
         root.add(timeLabel);
 
-        button.addActionListener(new MyActionListener());
-	}
+        button.addActionListener(new ActionListener(){
+            public void  actionPerformed(ActionEvent e){
+                System.out.println("*** 被点击了!");
+                SimpleDateFormat sdf=new SimpleDateFormat("HH:mm:ss");
+                String timeStr=sdf.format(new Date());
+                System.out.println(timeStr);
 
-	private class MyActionListener implements ActionListener{
-		public void  actionPerformed(ActionEvent e){
-			System.out.println("*** 被点击了!");
-            SimpleDateFormat sdf=new SimpleDateFormat("HH:mm:ss");
-            String timeStr=sdf.format(new Date());
-            System.out.println(timeStr);
-
-            timeLabel.setText(timeStr);
-		}
+                timeLabel.setText(timeStr);
+            }
+        });
 	}
 }

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73610832-c543-42d2-b76c-1fa479468915" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../swing0404/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0404/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0404/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0404/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0404/swing0404.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0405/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0405/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0405/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swing0405/swing0405.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my/MyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/my/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swing0501.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing0403/out/production/swing0403/my/MyFrame$MyActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing0403/out/production/swing0403/my/MyFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../swing0403/out/production/swing0403/my/MyFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing0403/src/my/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swing0403/src/my/MyFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing0404/src/my/MyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swing0404/src/my/MyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swing0404/src/my/MyFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../swing0404/src/my/MyFrame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/my/MyDemo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/my/MyFrame.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="29L5KXyFvIaMS3r4WfSslhHY58j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyDemo" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="my.MyDemo" />
+      <module name="swing0405" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73610832-c543-42d2-b76c-1fa479468915" name="Changes" comment="" />
+      <created>1652879461632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652879461632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
